@@ -27,7 +27,7 @@ public class Application {
 		System.out.println("char = " +j);
 		System.out.println("boolean = " +g);
 		System.out.println("boolean = " +m);
-		
+		System.out.println("boolean = " +n);
 		
 		Boolean g1 = g;
 		Character j1 = j;
